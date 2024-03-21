@@ -1,0 +1,20 @@
+{
+  "name": "terminator-command-builder",
+  "version": "1.0.1",
+  "description": "A library to build and execute terminal commands interactively.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wisonhanne/terminator-command-builder"
+  },
+  "dependencies": {
+    "yargs": "^16.2.0",
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
